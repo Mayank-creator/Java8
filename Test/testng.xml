@@ -1,0 +1,7 @@
+<suite name="com.test">
+ <test name="testngTest">
+ <classes>
+ <class name="com.test.Test1" />
+ </classes>
+ </test>
+</suite>
